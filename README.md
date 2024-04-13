@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ... my degree
+🔭 I’m currently working on ... my degree  
+
 🌱 I’m currently learning ... kotlin
 👯 I’m looking to collaborate on ... github
 🤔 I’m looking for help with ... android studio
